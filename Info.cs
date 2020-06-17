@@ -16,7 +16,7 @@ namespace FileSearch
             Console.WriteLine("|  __| | | |/ _ |/ __|/ _ || _` | '__/ __| '_ | / _ | '__|");
             Console.WriteLine("| |    | | |  __/|__ |  __/ (_| | | | (__| | | |  __/ |   ");
             Console.WriteLine("|_|    |_|_||___||___/|___||__,_|_|  |___|_| |_||___|_|   ");
-            Console.WriteLine("\r Version 0.0.1 by WingsOfDoom \n https://twitter.com/Jean_Maes_1994");
+            Console.WriteLine("\r Version 1.0.0 Managed by NVISO \n Developed by https://twitter.com/Jean_Maes_1994");
         }
 
         public static void PrintUseage()
