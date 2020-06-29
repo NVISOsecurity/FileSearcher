@@ -1,7 +1,7 @@
 # FileSearcher
 
 Unmanaged assembly file searcher for when a fully interactive beacon session is not opsec safe enough. 
-Has different capabliities as seen in the help function:
+Has different capabilities as seen in the help function:
 
 ```
  ______ _ _                               _
